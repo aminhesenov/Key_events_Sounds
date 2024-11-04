@@ -1,0 +1,16 @@
+D:\C# dersleri\Key_events\Key_events\bin\Debug\net8.0-windows\Key_events.exe
+D:\C# dersleri\Key_events\Key_events\bin\Debug\net8.0-windows\Key_events.deps.json
+D:\C# dersleri\Key_events\Key_events\bin\Debug\net8.0-windows\Key_events.runtimeconfig.json
+D:\C# dersleri\Key_events\Key_events\bin\Debug\net8.0-windows\Key_events.dll
+D:\C# dersleri\Key_events\Key_events\bin\Debug\net8.0-windows\Key_events.pdb
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\Key_events.Form1.resources
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\Key_events.csproj.GenerateResource.cache
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\Key_events.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\Key_events.AssemblyInfoInputs.cache
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\Key_events.AssemblyInfo.cs
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\Key_events.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\Key_events.dll
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\refint\Key_events.dll
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\Key_events.pdb
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\Key_events.genruntimeconfig.cache
+D:\C# dersleri\Key_events\Key_events\obj\Debug\net8.0-windows\ref\Key_events.dll
